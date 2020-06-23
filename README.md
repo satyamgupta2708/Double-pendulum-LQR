@@ -1,6 +1,6 @@
 # Double-pendulum-LQR
 implementation of Lqr with PID on acrobot \
-implementation of the paper THE SWING CONTROL PROBLEM OF ACROBOT\
+implementation of the paper [THE SWING CONTROL PROBLEM OF ACROBOT](https://github.com/satyamgupta2708/Double-pendulum-LQR/blob/master/swingupctrlprob.pdf)\
 project completed on 25-02-2019 \
 project uploaded on 23-06-2020 
 
